@@ -12,7 +12,9 @@ MyFirstRepository
 **6주차**
 
 
-![6주차-1](https://user-images.githubusercontent.com/53885957/162105406-18961ac7-55af-46f7-bf70-fc942cb3d053.PNG)
-![6주차-2](https://user-images.githubusercontent.com/53885957/162105414-17687261-b693-4282-8963-07e3429652fb.PNG)
+![6-1](https://user-images.githubusercontent.com/53885957/162266246-4ed38359-bce9-49ff-85d0-312b87083420.PNG)
+![6-2](https://user-images.githubusercontent.com/53885957/162266255-ae486138-9a29-4687-9640-889c5895e5c2.PNG)
+
+
 
 
