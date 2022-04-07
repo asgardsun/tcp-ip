@@ -11,8 +11,7 @@
 **6주차**
 
 
-![6-1](https://user-images.githubusercontent.com/53885957/162266246-4ed38359-bce9-49ff-85d0-312b87083420.PNG)
-![6-2](https://user-images.githubusercontent.com/53885957/162266255-ae486138-9a29-4687-9640-889c5895e5c2.PNG)
+![6-4](https://user-images.githubusercontent.com/53885957/162267584-83d6def4-56c2-4021-9092-58cc74983560.PNG)
 ![6-3](https://user-images.githubusercontent.com/53885957/162266859-14ad3236-7f15-4da5-822e-85b710c2ea10.PNG)
 
 
