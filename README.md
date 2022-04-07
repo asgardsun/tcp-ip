@@ -11,6 +11,7 @@
 **6주차**
 
 **tcp_client.c, hello_server.c**
+
 ![6-4](https://user-images.githubusercontent.com/53885957/162267584-83d6def4-56c2-4021-9092-58cc74983560.PNG)
 
 **udp통신**
